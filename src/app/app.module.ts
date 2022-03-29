@@ -5,6 +5,7 @@ import { AppComponent } from './app.component';
 import { ShellComponent } from './shell/shell.component';
 import { UsersListComponent } from './shared/users-list/users-list.component';
 import { UsersDetailsComponent } from './shared/users-details/users-details.component';
+import { HomeComponent } from './shared/home/home.component';
 
 @NgModule({
   declarations: [
@@ -12,6 +13,7 @@ import { UsersDetailsComponent } from './shared/users-details/users-details.comp
     ShellComponent,
     UsersListComponent,
     UsersDetailsComponent,
+    HomeComponent,
   ],
   imports: [AppRoutingModule, BrowserModule],
   providers: [],

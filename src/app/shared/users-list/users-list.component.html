@@ -1,5 +1,7 @@
+<p>Click the user that you want to get information about</p>
 <div class="users_list">
   <h2>Users List</h2>
+
   <section *ngFor="let item of users">
     <a (click)="getUsersInfo(item.id)">{{ item?.username }}</a>
   </section>
