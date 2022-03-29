@@ -19,5 +19,26 @@
     "firstname": "pavle",
     "lastname": "vigacadze",
     "about": "about me"
+  },
+  {
+    "id": 4,
+    "username": "vigaca1",
+    "firstname": "gio",
+    "lastname": "pativashvili",
+    "about": "about me"
+  },
+  {
+    "id": 5,
+    "username": "vigaca2",
+    "firstname": "petre",
+    "lastname": "vigacashvili",
+    "about": "about me"
+  },
+  {
+    "id": 6,
+    "username": "vigaca3",
+    "firstname": "pavle",
+    "lastname": "vigacadze",
+    "about": "about me"
   }
 ]
