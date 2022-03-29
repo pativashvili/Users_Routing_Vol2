@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "username": "Giorgi",
+    "firstname": "gio",
+    "lastname": "pativashvili",
+    "about": "about me"
+  },
+  {
+    "id": 2,
+    "username": "John",
+    "firstname": "petre",
+    "lastname": "vigacashvili",
+    "about": "about me"
+  },
+  {
+    "id": 3,
+    "username": "Bon",
+    "firstname": "pavle",
+    "lastname": "vigacadze",
+    "about": "about me"
+  }
+]
